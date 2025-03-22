@@ -7,8 +7,8 @@ const users = [
   {
     id: "1",
     name: "Demo User",
-    email: "demo@example.com",
-    password: "password123", // In a real app, this would be hashed
+    email: "admin@gmail.com",
+    password: "123", // In a real app, this would be hashed
     subscriptionPlan: "free",
     subscriptionEndDate: new Date(Date.now() + 7 * 24 * 60 * 60 * 1000), // 7 days from now
   },
